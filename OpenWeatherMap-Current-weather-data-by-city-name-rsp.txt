@@ -1,0 +1,15 @@
+200
+
+{
+	"coord": {"lon":-0.13,"lat":51.51},
+	"sys": {"type":1,"id":5091,"message":0.0147,"country":"GB","sunrise":1426745076,"sunset":1426788708},
+	"weather": [ {"id": 721, "main": "Haze", "description": "haze", "icon":"50d"} ],
+	"base": "cmc stations",
+	"main": {"temp":279.68,"pressure":1033,"humidity":81,"temp_min":278.15,"temp_max":280.37},
+	"wind": {"speed":4.1,"deg":10},
+	"clouds": {"all":90},
+	"dt": 1426766288,
+	"id": 2643743,
+	"name": "{city_name}",
+	"cod":200
+}
