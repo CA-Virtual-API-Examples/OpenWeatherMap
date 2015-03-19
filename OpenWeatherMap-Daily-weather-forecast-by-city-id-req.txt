@@ -1,0 +1,4 @@
+GROUP-NAME:Weather Forecast
+PAIR-NAME:Daily weather forecast by city id
+GET /data/2.5/forecast/daily?id=524901
+
