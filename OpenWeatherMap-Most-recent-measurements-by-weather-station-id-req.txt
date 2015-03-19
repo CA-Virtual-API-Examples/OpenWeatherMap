@@ -1,0 +1,4 @@
+GROUP-NAME:Data from Weather Stations
+PAIR-NAME:Most recent measurements by weather station id
+GET /data/2.5/station?id={station_id}
+
