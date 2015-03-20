@@ -7,4 +7,4 @@ The virtualized sample API is divided into the following groups: Current Weather
 
 Full details of the request-response pairs making up the sample API can be seen in the Editor tab.
 
-Note in the "Current weather data by city name" pair, when executing, the parameter {city_name} can be replaced by any sample string in the request.  This string will be echoded in the response where {city_name} occurs.
+Note in the "Current weather data by city name" pair, when executing, the parameter {city_name} can be replaced by any sample string in the request.  This string will be echoed in the response where {city_name} occurs.
