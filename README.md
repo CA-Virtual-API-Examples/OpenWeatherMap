@@ -1,7 +1,6 @@
 # OpenWeatherMap
 
-This API is a virtualized sample of the OpenWeatherMap REST API.  Full details of the latter can be found at
-http://openweathermap.org/api.
+This API is a virtualized sample of the OpenWeatherMap REST API.  Full details of the latter can be found at http://openweathermap.org/api.
 
 The virtualized sample API is divided into the following groups: Current Weather Data, Data from Weather Stations, Weather Forecast.
 
