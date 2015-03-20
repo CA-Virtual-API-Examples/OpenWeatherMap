@@ -7,4 +7,4 @@ The virtualized sample API is divided into the following groups: Current Weather
 
 Full details of the request-response pairs making up the sample API can be seen in the Editor tab.
 
-Note in the the use of the string pattern {{=[:Email:]}} in the "Append error log". This will generate a random email address in the response when the request is sent.
+Note in the "Current weather data by city name" pair, when executing, the parameter {city_name} can be replaced by any sample string in the request.  This string will be echoded in the response where {city_name} occurs.
